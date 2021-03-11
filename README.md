@@ -25,7 +25,7 @@ The first time IstioCon has attracted more than  <b> 4000 </b> registrations fro
 One of our session  <b> `Secure your microservices with Istio step by step` </b> is the <b>top 5 </b>Most popular sessions in Chinese!
 
 
-## At last, below are some sessions that I think is valuable to watch. You can also see a full list in [IstioCon website](https://events.istio.io/istiocon-2021/sessions/)
+## At last, below are some sessions that I think are valuable to watch. You can also see a full list in [IstioCon website](https://events.istio.io/istiocon-2021/sessions/)
 
 | Title   |  slides | 
 |  ----  | ----  | 
