@@ -1,10 +1,10 @@
 # IstioCon  Recap
 
-## IstioCon has passed two weeks and now all recording is available to watch. It is also a good time for a recap: 
+## IstioCon has passed two weeks and now all recording are available to watch. It is also a good time for a recap: 
 
 The first time IstioCon has attracted more than  <b> 4000 </b> registrations from about <b> 80 </b>  countries!  Really a great milestone for the Istio community!
 
-## Some of my minor thoughts for IstioCon is as below: 
+## Some of my minor thoughts for IstioCon are as below: 
 
  * We can see Istio has been widely used in production.  Multiple talks were sharing experience for Isito in production like eBay, saleforce, T-Mobile etc. Edge is also a potential area for Istio.
 
