@@ -22,7 +22,7 @@ The first time IstioCon has attracted more than  <b> 4000 </b> registrations fro
 | [Is Your Virtual Machine Really Ready-to-go with Istio?](https://youtu.be/fuaOfjx8-Mc) | [slides](https://events.istio.io/istiocon-2021/slides/e4p-VMReady-KailunQin-HaoyuanGe.pdf) | 
 | [Secure your microservices with Istio step by step?](https://youtu.be/RPTm1B3CKPcc) | [slides]() | 
 
-There were 13 sessions in chinese and 51 sessions in English in total. One of our session  <b> `Secure your microservices with Istio step by step` </b> is the top 5 Most popular sessions in Chinese!
+One of our session  <b> `Secure your microservices with Istio step by step` </b> is the <b>top 5 </b>Most popular sessions in Chinese!
 
 
 ## At last, below are some sessions that I think is valuable to watch. You can also see a full list in [IstioCon website](https://events.istio.io/istiocon-2021/sessions/)
